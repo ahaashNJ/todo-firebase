@@ -3,7 +3,7 @@ import React from 'react'
 function Title() {
   return (
     <div className='title'>
-        <h1>Title</h1>
+        <h1>TODO APP</h1>
     </div>
   )
 }

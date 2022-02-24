@@ -5,10 +5,10 @@
   justify-content: center;
 }
 body {
-  background-color: #cbcbf3;
+  background-color: #12d1eb;
 }
 .title h1 {
-  color: #3a3a3a;
+  color: #ffffff;
   text-align: center;
   margin: 30px 0;
   font-family: "Poppins", sans-serif;
@@ -42,7 +42,7 @@ form input {
   margin-bottom: 10px;
 }
 .btn_container button {
-  background: #333;
+  background: #ffc107;
   color: white;
   padding: 10px 20px;
   outline: none;
@@ -92,15 +92,15 @@ form input {
   font-size: 35px;
 }
 .button-complete {
-  color: #95faa3;
+  color: #fe3ea5;
   margin-right: 10px;
 }
 .button-edit {
-  color: #56cfff;
+  color: #01a4cd;
   margin-right: 10px;
 }
 .button-delete {
-  color: rgb(255, 122, 98);
+  color: rgb(120, 23, 231);
 }
 @media screen and (max-width: 667px) {
   .task_container {
